@@ -97,7 +97,7 @@ function toggleElement(id)
 <a href="javascript:toggleElement('a2')"> <button> <h3> What do you do for a living? </h3> </button></a>
 </p>
 <div id="a2" style="display:none">
-Right now im not really doing anything, so im availible most of the time(Check Contact if you need to reach me!) But im looking for work!<br> Previously i have done what is called "Skadebegrensning" in norwegian which means i clean up after fires, water damage, fungus, etc.
+Right now im not really doing anything, so im availible most of the time(Check Contact if you need to reach me!) But im looking for work!<br> Previously i have done what is called "Skadebegrensning" in norwegian which means i clean up after fires, water damage, fungus, etc. (EDIT: Back to my old job again and feeling good work hours are as follows 07:30AM to 03:30PM Norwegian time Mon-Fri)
 </div>
 </body>
 </html>
@@ -128,6 +128,30 @@ Hard to say yet... I might if i decide to start making things in my sparetime, A
 
 
   <html><body><script>
+   
+   
+     <html><body><script>
+
+function toggleElement(id)
+{
+    if(document.getElementById(id).style.display == 'none')
+    {
+        document.getElementById(id).style.display = '';
+    }
+    else
+    {
+        document.getElementById(id).style.display = 'none';
+    }
+}
+</script>
+<p>
+<a href="javascript:toggleElement('a1')"> <button> <h3> How/Where did you create this website? </h3> </button></a>
+</p>
+<div id="a1" style="display:none">
+ I made my website using GitHub Pages as kind of a "Webhotel" you can check it out <p><a href="https://pages.github.com/">BY CLICKING RIGHT HERE!</a></p>
+</div>
+</body>
+</html>
 
 function toggleElement(id)
 {
