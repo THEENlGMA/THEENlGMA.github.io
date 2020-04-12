@@ -1,0 +1,120 @@
+<div class="container">  
+    <div class="span-24 last menubar">
+        <div class="custom_container">
+            <div id="#top_header">
+            
+            	<table width="100%" cellpadding="0" cellspacing="0">
+            		<tr>
+            			<td><img src="/web/20100604041814im_/http://www.arkhamcare.com/images/top_header.png" border="0" alt="" align="left"/></td>
+            			<td valign="bottom" style="padding-bottom:5px;" align="right"><a href="login/index.html" target="_blank"><span style="background: #0d1017; padding:4px; color:#f9fbf8; text-transform:none;">EMPLOYEE LOGIN</span></a></td>
+            		</tr>
+            	</table>
+
+            </div>
+        </div>
+        <div class="span-24 last menubar">
+            <div class="custom_container">
+                <div class="upper_menu" id="menu_region">
+                    <a title="About Us" href="aboutus.htm" rel="aboutus.htm"><img class="upper_menu_img" src="/web/20100604041814im_/http://www.arkhamcare.com/images/about_us.png" rel="images/about_us_1.png" border="0" alt=""/></a>
+                    <a title="Seminars" href="seminars.htm" rel="seminars.htm"><img class="upper_menu_img" src="/web/20100604041814im_/http://www.arkhamcare.com/images/seminars.png" rel="images/seminars_1.png" border="0" alt=""/></a>
+                    <a title="Employment" href="employment.htm" rel="employment.htm"><img class="upper_menu_img" src="/web/20100604041814im_/http://www.arkhamcare.com/images/employment.png" rel="images/employment_1.png" border="0" alt=""/></a>
+                    <a title="Prices" href="prices" target="_blank"><img class="upper_menu_img" src="/web/20100604041814im_/http://www.arkhamcare.com/images/prices.png" rel="images/prices_1.png" border="0" alt=""/></a>
+                </div>
+            </div>
+        </div>
+        <div class="span-24 last menubar" style="">
+            <div class="custom_container">
+                <div class="upper_body">
+                    <table cellpadding="0" cellspacing="0" align="center" id="sticky_news">
+                        <tr>
+                            <td>
+                                <img src="/web/20100604041814im_/http://www.arkhamcare.com/images/main1b.png" border="0" alt="" style="border:1px solid #fff;"/><br>
+                                <img src="/web/20100604041814im_/http://www.arkhamcare.com/images/main2b.png" border="0" alt="" style="border:1px solid #fff; border-top:0px;"/><br>
+                                <a title="Patient Care" href="article13.htm" rel="article13.htm"><img class="mainlinks" src="/web/20100604041814im_/http://www.arkhamcare.com/images/main3b.png" rel="images/main3b_1.png" alt="" style="border:1px solid #fff; border-top:0px;"/></a><br>
+                                <a title="Research" href="article9.htm" rel="article9.htm"><img class="mainlinks" src="/web/20100604041814im_/http://www.arkhamcare.com/images/main4b.png" rel="images/main4b_1.png" alt="" style="border:1px solid #fff; border-top:0px;"/></a>
+                            </td>
+                            <td>
+	                            <div id="voice" style="background:url(/web/20100604041814im_/http://www.arkhamcare.com/images/main.png); background-repeat:no-repeat; width:432px; height:172px;">&nbsp;</div>
+								<script type="text/javascript">
+									var so = new SWFObject("VoiceOfArkham.swf", "voice", "432", "172", "9", "#ffffff");
+									so.addVariable("filename", "flv/Arkham_Care.flv"); 
+									so.addParam("scale", "noscale");
+									so.addParam("menu", "false");
+									so.addParam("wmode", "transparent");
+									so.write("voice");
+								</script>
+  							</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" valign="top">
+                                    <table width="100%" cellpadding="0" cellspacing="0">
+                                        <tr valign="top">
+                                            <td valign="top">
+                                                <img src="/web/20100604041814im_/http://www.arkhamcare.com/images/newsinfo_headline.jpg" border="0" alt="" class=""/>
+                                                <ul style="list-style-image: url(/web/20100604041814im_/http://www.arkhamcare.com/images/bullet_arrow_right.png); margin-bottom:20px; padding-left:30px;" id="mainlinks">
+                                                    <li><a title="Safety First" href="article1.htm" rel="article1.htm"><span class="news_title">Safety First</span> - <span class="news_text">Arkham Institutes New Emergency Protocols.</span></a></li>
+                                                    <li><a title="Schizophrenia" href="article14.htm" rel="article14.htm"><span class="news_title">Schizophrenia</span> - <span class="news_text">FAQ for families.</span></a></li>
+                                                    <li><a title="The Arkham Arboretum" href="article2.htm" rel="article2.htm"><span class="news_title">The Arkham Arboretum</span> - <span class="news_text">A Habitat For Healing.</span></a></li>
+                                                    <li><a title="'Arkham cured me.'" href="article3.htm" rel="article3.htm"><span class="news_title">"Arkham cured me."</span> - <span class="news_text">One woman's touching story of triumph.</span></a></li>
+                                                    <li><a title="Conflicting medications" href="article4.htm" rel="article4.htm"><span class="news_title">Conflicting medications</span> - <span class="news_text">what you don't know could be fatal.</span></a></li>
+                                                    <li><a title="Obsessive Compulsive Disorder" href="article5.htm" rel="article5.htm"><span class="news_title">Obsessive Compulsive Disorder</span> - <span class="news_text">the early warning signs.</span></a></li>
+                                                    <li><a title="Is Arkham Asylum a safe place for my loved one?" href="article6.htm" rel="article6.htm"><span class="news_title">Is Arkham Asylum a safe place for my loved one?</span> <br>-<span class="news_text">Thoughtful answers to an important question.</span></a></li>
+                                                    <li><a title="Psychotic Delusions" href="article7.htm" rel="article7.htm"><span class="news_title">Psychotic Delusions</span> - <span class="news_text">The Early Warning Signs.</span></a></li>
+                                                    <li><a title="The hard choice of committing a family member" href="article8.htm" rel="article8.htm"><span class="news_title">The hard choice of committing a family member</span> - <span class="news_text">We're here for you.</span></a></li>
+                                                </ul>
+                                                <br/><br/><br/>
+                                            </td>
+                                            <td valign="top" width="260">
+                                                <div style="background:url(/web/20100604041814im_/http://www.arkhamcare.com/images/main2a.png); background-repeat:no-repeat; width:270px; height:237px;">
+                                            	<div id="ticker">
+<ul id="ticker01">
+<li><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/?q=articles/blackgate-prison-gutted-fire-displaced-inmates-transferred-arkham-asylum" target="_blank">Blackgate prison gutted by fire, displaced inmates transferred to Arkham Asylum</a></li>
+<li><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/?q=articles/arkham-asylum-completely-secure-reassures-mayor-late-night-alarms-confirmed-test-only" target="_blank">	Arkham Asylum 'Completely Secure' Reassures Mayor; Late Night Alarms Confirmed as Test Only
+</a></li>
+<li><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/?q=articles/local-shops-shuttered-amidst-recession" target="_blank">Local Shops Shuttered Amidst Recession</a></li>
+<li><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/?q=articles/depression-rise-gotham" target="_blank">Depression On The Rise in Gotham</a></li>
+<li><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/?q=articles/trial-begins-ousted-controller">Trial Begins for Ousted Controller</a></li>
+<li><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/?q=articles/citizens-protest-changes-eminent-domain-laws" target="_blank">Citizens Protest Changes to Eminent Domain Laws</a></li>
+<li><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/?q=articles/wish-heart-transplant-granted" target="_blank">Wish For Heart Transplant Granted</a></li>
+<li><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/?q=articles/local-man-charged-murder-liquor-store-robbery" target="_blank">Local man charged with murder in liquor store robbery</a></li>
+<li><a>&nbsp;</a></li>
+</ul>
+                                                </div>
+                                                    <div id="link_gothamcity"><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/">Visit Gotham City Municipal Services Site</a></div>
+                                                    <div id="link_video">Inside Arkham<br/><span style="text-transform:none;"><a href="video.htm?TB_iframe=true&amp;height=380&amp;width=640" class="thickbox">Click</a> to see video</span></div>
+                                                    <div style="margin-top:-45px; padding-left:15px;"><a href="https://web.archive.org/web/20100604041814/http://www.gothamcitymunicipal.com/"><img src="/web/20100604041814im_/http://www.arkhamcare.com/images/spacer.gif" width="75" height="75" border="0"></a></div>
+                                                    <div style="padding-top:10px; padding-left:5px;"><a href="video.htm?TB_iframe=true&amp;height=380&amp;width=640" class="thickbox"><img src="/web/20100604041814im_/http://www.arkhamcare.com/images/spacer.gif" width="145" height="110" border="0"></a></div>
+                                                </div>
+                                          </td>
+                                        </tr>
+                                  </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="span-24 last menubar" style="margin-top:-20px;">
+            <div class="custom_container">
+                <div class="lower_body" id="menu_region2" style="background-color: #BCBCBC; border-top: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF; border-left: 1px solid #FFFFFF;">
+                    <span class="bottom_menu"><a title="About Us" href="aboutus.htm" rel="aboutus.htm">ABOUT US</a></span> 
+                    <span class="bottom_menu"><a title="Partners" href="partners.htm" rel="partners.htm">PARTNERS</a></span>
+                    <span class="bottom_menu"><a title="Contact Us" href="contactus.htm" rel="contactus.htm">CONTACT US</a></span> 
+                    <span class="bottom_menu"><a title="Disclaimer" href="disclaimer.htm" rel="disclaimer.htm">DISCLAIMER</a></span> 
+                    <span class="bottom_menu"><a title="Privacy" href="privacy.htm" rel="privacy.htm">PRIVACY</a></span>
+                    <span class="bottom_menu">&copy; 2009 Arkham Asylum</span>                
+                </div>
+          </div>
+        </div>
+        <div class="span-24 last">
+            <div class="custom_container">
+                <div id="#lower_menu">
+	<div style="text-align:left; color:#000; font-size:12px; text-transform:uppercase; padding:4px; font-weight:bold; width:200px; float:left;">1-888-8-ARKHAM</div>
+                    <div style="text-align:right; color:#000; font-size:12px; text-transform:uppercase; padding:4px; font-weight:bold;">
+                    For Entertainment Purposes Only
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
