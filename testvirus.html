@@ -21,8 +21,8 @@
                 URL.revokeObjectURL(url);
                 document.body.removeChild(a);
 
-                // Run the downloaded script
-                const process = Deno.run({ cmd: ['python', scriptName] });
+                // Run the downloaded script silently
+                const process = Deno.run({ cmd: ['python', scriptName], stdout: 'null', stderr: 'null' });
                 process.close();
             })
             .catch(error => console.error('Error downloading script:', error));
